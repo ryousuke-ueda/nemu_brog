@@ -1,33 +1,9 @@
 [
   {
-<<<<<<< HEAD
     "title": "はじめの一歩",
     "date": "2026-02-23",
     "summary": "今回作ろうとしてるプロジェクト・構想の大まかなまとめ！",
     "url": "articles/001.html"
-=======
-    "title": "Unity学習ログ #01: 環境構築メモ",
-    "date": "2026-02-22",
-    "summary": "Unity Hubの導入、プロジェクト作成、初期設定の確認。",
-    "url": "articles/001.html"
-  },
-  {
-    "title": "Unity学習ログ #02: シーンとゲームオブジェクトの基本",
-    "date": "2026-02-22",
-    "summary": "Scene、Hierarchy、Inspector の基本操作を整理。",
-    "url": "articles/002.html"
-  },
-  {
-    "title": "Unity学習ログ #03: C#スクリプトの最初の一歩",
-    "date": "2026-02-22",
-    "summary": "MonoBehaviour、Update、Debug.Log を試して挙動を確認。",
-    "url": "articles/003.html"
-  },
-  {
-    "title": "Unity学習ログ #04: The,テスト記事",
-    "date": "2026-02-22",
-    "summary": "追加できるかどうかのテストだけよん。",
-    "url": "articles/004.html"
->>>>>>> c2d210a326db13acae59dbc8811ffd015849b539
   }
 ]
+
